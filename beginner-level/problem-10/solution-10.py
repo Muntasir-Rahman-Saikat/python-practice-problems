@@ -7,7 +7,7 @@ def isprime(m):
         else:
             return "Not a prime number"
     return "prime number"
-print(isprime(25))
+print(isprime(29))
 
 print(isprime(100))
 
