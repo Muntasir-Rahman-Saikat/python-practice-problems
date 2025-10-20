@@ -1,0 +1,2 @@
+Implement a simple .env file loader for config in DevOps.
+    Hint: Use dotenv library or parse lines manually and set in os.environ.

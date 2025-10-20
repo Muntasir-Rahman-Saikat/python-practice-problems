@@ -1,0 +1,2 @@
+Multiply two matrices, often needed in neural net computations.
+    Hint: Use nested loops or numpy.dot().

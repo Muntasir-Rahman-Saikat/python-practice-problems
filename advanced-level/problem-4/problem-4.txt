@@ -1,0 +1,3 @@
+Create a Mini REST API with Flask
+Build a mini Flask app with /tasks endpoint to GET, POST, and DELETE tasks from a list.
+    Hint: Use Flask's route decorators.

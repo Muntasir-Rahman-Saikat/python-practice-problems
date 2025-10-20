@@ -1,0 +1,2 @@
+Scrape a sample blog page and return all titles within <h2> tags.
+    Hint: Use BeautifulSoup and requests.
